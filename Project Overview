@@ -1,0 +1,9 @@
+Background: I am planning on using the Environment dataset
+(provided: https://raw.githubusercontent.com/redefine-cs/redefine-cs.github.io/master/resources/environment.csv). 
+
+For context, this dataset is a collection of climate data from May 1983 to December 2008. 
+It provides how levels of different gases and pollution in the atmosphere have fluctuated across the years, along with temperature changes. 
+I want to use the data to compare each of the gases and pollutants with the temperature change to figure which gas caused the greatest increase 
+in temperature. I hope to create graphs that explore the correlation between different greenhouse gases to the temperature throughout the years. 
+From that, I will figure out which gas caused the most temperature change, or has the strongest correlation. My hypothesis is that CO2 will result 
+in the strongest correlation. 
